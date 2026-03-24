@@ -1,5 +1,7 @@
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm Utibe (Henry) Bassey 👋  
 ### Data Scientist | Turning Data into Actionable Insights
+
+------
 
 I am a Data Scientist with a strong focus on transforming raw data into meaningful insights and business solutions. 
 I specialize in data analysis, machine learning, and statistical modeling to solve real-world problems.
@@ -8,6 +10,17 @@ I specialize in data analysis, machine learning, and statistical modeling to sol
 📊 Passionate about data-driven decision making  
 🚀 Open to Data Science, Machine Learning, and Analytics opportunities
 
+------
+
+## 🎯 Mission
+
+My mission is to leverage data science and machine learning to solve meaningful real-world problems, 
+drive smarter decision-making, and create solutions that deliver measurable impact.
+
+I am particularly interested in using data to improve business performance, optimize processes, 
+and uncover insights that would otherwise remain hidden.
+
+------
 
 ## 🛠️ Technical Skills
 
