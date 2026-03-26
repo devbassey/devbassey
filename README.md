@@ -72,20 +72,11 @@ and uncover insights that would otherwise remain hidden.
 
 ## 📌 Featured Projects
 
-### 🔹 Customer Churn Prediction
-- Built a machine learning model to predict customer churn
-- Improved retention strategy by identifying key churn drivers
-- Tools: Python, Scikit-learn, Pandas
+### 🔹 Customer Churn Prediction ([Read Here](https://github.com/devbassey/Telco-Customer-Church-Analysis-Project/tree/main#telco-customer-church-analysis-project))
+This project uses machine learning and data analysis on the IBM Telco dataset to predict customer churn, uncover its key drivers, and translate insights into actionable strategies for reducing customer loss and protecting revenue.
 
-### 🔹 Sales Forecasting Model
-- Developed time series forecasting model for sales prediction
-- Achieved high accuracy using ARIMA / Prophet
-- Tools: Python, Statsmodels
 
-### 🔹 Data Dashboard (Power BI)
-- Created interactive dashboard for business insights
-- Visualized KPIs for decision-making
-- Tools: Power BI, Excel
+
 
 ## 📫 Let's Connect
 
