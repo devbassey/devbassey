@@ -75,6 +75,11 @@ and uncover insights that would otherwise remain hidden.
 ### 🔹 Customer Churn Prediction ([Read Here](https://github.com/devbassey/Telco-Customer-Church-Analysis-Project/tree/main#telco-customer-church-analysis-project))
 This project uses machine learning and data analysis on the IBM Telco dataset to predict customer churn, uncover its key drivers, and translate insights into actionable strategies for reducing customer loss and protecting revenue.
 
+## Data Challenges
+### 🔹21 Days of 21 SQL Challenges ([Read Here](https://github.com/devbassey/21-Projects-in-21-Days-SQL)) 
+This is a hands-on journey where I use real-world datasets for daily problem solving, and business-focused SQL insights. I progress carefully From beginner queries to advanced analytics; one project per day.
+
+
 
 
 
